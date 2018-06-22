@@ -16,9 +16,6 @@
                         </div>
                         <div class="col">
                             <input type="button" value="WhatsApp" class="btn btn-success btn-block" onclick="shareinwhatsapp();">
-                            <!--<spanid="whatsapp_share_android">
-                                <a id= href="whatsapp://send?text=<?php //echo $data['urlref']; ?>" /><input type="button" value="WhatsApp" class="btn btn-success btn-block"></a>
-                            </span>-->
                         </div>
                         <div class="col">
                             <input type="button" id="clipbrdbtn" name="clipbrdbtn" value="Copy to Clipboard" onclick="copytoclipboard();" class="btn  btn-block">
